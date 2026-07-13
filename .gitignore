@@ -1,0 +1,14 @@
+# Fichiers compilés
+*.o
+inventaire
+
+# Fichiers de données
+inventaire.txt
+
+# Fichiers de sauvegarde
+backup_*.tar.gz
+backup_*.zip
+
+# Fichiers temporaires
+*.tmp
+Fichier_ben
